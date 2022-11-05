@@ -30,8 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 ## 💻 Projeto
 
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
-
+Calendário dos jogos da copa (Qatar) 2022 .
+ 
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxins/NLW-copa-explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
